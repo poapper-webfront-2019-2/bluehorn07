@@ -1,0 +1,28 @@
+
+button {background-color:transparent; border: transparent;}
+
+
+header{height: 40px; width: 100%; margin: 0 auto;}
+header > button {float: right;}
+
+
+
+.contents{padding: 100px;}
+
+.logo{ display: table; margin-left: auto; margin-right: auto; padding-top: 100px;   }
+
+.search{display: table; margin-left: auto; margin-right: auto; border: black; border-radius: 25px; width: 500px; height: 40px;
+    box-shadow: 2px 2px 2px 2px gray;
+    margin-bottom: 200px;}
+.search > div {vertical-align: middle;}
+.icon_search {padding-left: 15px; display:inline;}
+.search_bar {display:inline;}
+input{width: 402px; border: transparent;}
+.icon_record {padding-right: 15px; display:inline;}
+
+
+
+footer > div{background-color: #F2F2F2;}
+.below_one > div{display: inline;}
+.left_one{background-color: #F2F2F2; float: left;}
+.right_one{background-color: #F2F2F2; float: right;}
